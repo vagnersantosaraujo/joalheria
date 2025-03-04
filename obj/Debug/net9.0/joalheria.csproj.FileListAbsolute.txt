@@ -1,0 +1,15 @@
+/Users/vsa/GitHub/joalheria/bin/Debug/net9.0/joalheria
+/Users/vsa/GitHub/joalheria/bin/Debug/net9.0/joalheria.deps.json
+/Users/vsa/GitHub/joalheria/bin/Debug/net9.0/joalheria.runtimeconfig.json
+/Users/vsa/GitHub/joalheria/bin/Debug/net9.0/joalheria.dll
+/Users/vsa/GitHub/joalheria/bin/Debug/net9.0/joalheria.pdb
+/Users/vsa/GitHub/joalheria/obj/Debug/net9.0/joalheria.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vsa/GitHub/joalheria/obj/Debug/net9.0/joalheria.AssemblyInfoInputs.cache
+/Users/vsa/GitHub/joalheria/obj/Debug/net9.0/joalheria.AssemblyInfo.cs
+/Users/vsa/GitHub/joalheria/obj/Debug/net9.0/joalheria.csproj.CoreCompileInputs.cache
+/Users/vsa/GitHub/joalheria/obj/Debug/net9.0/joalheria.sourcelink.json
+/Users/vsa/GitHub/joalheria/obj/Debug/net9.0/joalheria.dll
+/Users/vsa/GitHub/joalheria/obj/Debug/net9.0/refint/joalheria.dll
+/Users/vsa/GitHub/joalheria/obj/Debug/net9.0/joalheria.pdb
+/Users/vsa/GitHub/joalheria/obj/Debug/net9.0/joalheria.genruntimeconfig.cache
+/Users/vsa/GitHub/joalheria/obj/Debug/net9.0/ref/joalheria.dll
